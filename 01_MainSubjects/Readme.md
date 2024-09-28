@@ -1,32 +1,28 @@
-# 01_MainSubjects - Yemek Tarifleri ve Rezervasyon Kartı Uygulaması
+# Yemek Tarifleri ve Rezervasyon Kartı Uygulaması
 
-Bu proje, C# dilinde basit bir konsol uygulaması olup, kullanıcıya yemek tarifleri, rezervasyon kartı ve menü hesaplama işlemleri sunar. Kod üç ana bölüme ayrılmıştır: yazdırma komutları, string değişkenler ve integer değişkenler.
+Bu proje, C# dilinde temel konsol işlemlerini göstermek amacıyla hazırlanmıştır. Program, yazdırma komutları, string ve integer değişkenlerin kullanımı ile basit matematiksel işlemleri içermektedir.
 
-## İçindekiler
-- [Yazdırma Komutları](#yazdırma-komutları)
-- [String Değişkenler](#string-değişkenler)
-- [Integer Değişkenler](#integer-değişkenler)
-- [Kullanım](#kullanım)
+## Özellikler
 
-## Yazdırma Komutları
+- **Console.WriteLine ve Console.Write Komutları:** Konsola metin yazdırma ve imleci bir alt satıra taşıma işlemleri gerçekleştirilmiştir.
+- **String Değişkenler:** Kullanıcı bilgileri (isim, soyisim, telefon, email vs.) string değişkenlerle tutulup ekrana yazdırılmıştır.
+- **Integer Değişkenler:** Sayısal veriler integer değişkenlerle tutulup, toplama, çıkarma, çarpma ve bölme işlemleri yapılmıştır.
+- **Basit Menü:** Yemek tariflerini listeleyen bir menü oluşturulmuş ve ekrana yazdırılmıştır.
+- **Fiyat Hesaplama:** Menüdeki ürünlerin fiyatları hesaplanarak toplam ödeme tutarı ekrana yazdırılmıştır.
 
-Bu bölüm, `Console.Write` ve `Console.WriteLine` komutlarının nasıl kullanıldığını gösterir. Farkları şunlardır:
-- `Console.Write`: Metni yazdırır ancak imleci aynı satırda tutar.
-- `Console.WriteLine`: Metni yazdırır ve imleci bir sonraki satıra taşır.
+## Kullanım
 
-Ayrıca bu bölümde yemek tariflerini listeleyen bir menü de bulunmaktadır:
+Bu projeyi çalıştırmak için Visual Studio ya da benzeri bir IDE kullanabilirsiniz. Proje çalıştırıldığında, yemek tarifleri menüsü, kullanıcı bilgileri ve ürün fiyatları hesaplanıp ekrana yazdırılacaktır.
 
-```plaintext
-***** Yemek Tarifleri *****
+## Geliştirme Ortamı
 
-1-Çorbalar
-2-Tatlılar
-3-Ana Yemekler
-4-Soğuk Başlangıçlar
-5-Ara Yemekler
-6-Soğuk İçecekler
-7-Sıcak İçecekler
-8-Salatalar
+- **Dil:** C#
+- **IDE:** Visual Studio
+- **.NET Framework:** 4.7.2 ve üstü
 
-![image](https://github.com/user-attachments/assets/bf882a2b-fc5b-4171-aad1-7147a1d9da46)
-![image](https://github.com/user-attachments/assets/578c1487-145e-41b0-89d0-d3cc145b5fd9)
+
+
+![image](https://github.com/user-attachments/assets/8e772374-4ecd-43b3-be74-45305c61c53a)
+
+
+![image](https://github.com/user-attachments/assets/8e58423d-7338-4c36-954f-304c45e48a54)
