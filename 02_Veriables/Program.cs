@@ -82,7 +82,7 @@ namespace _02_Veriables
             passengerIdentityNumber = Console.ReadLine();
 
             Console.WriteLine("\n\n------------------");
-            Console.WriteLine("Yolcu Tc'si :  " + passengerIdentityNumber + "   Yolcu Ad Soyad:  "  + passengerName + " " + passengerSurname + " " + passengerDistrict + " / " + passengerCity + " - " + passengerAge);
+            Console.WriteLine("\n\nYolcu Tc'si :  " + passengerIdentityNumber + "   Yolcu Ad Soyad:  "  + passengerName + " " + passengerSurname + " " + passengerDistrict + " / " + passengerCity + " - " + passengerAge);
             #endregion
 
             #region Klavyeden Tam Sayı Girişleri ve Dönüşümler
