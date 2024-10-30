@@ -1,5 +1,3 @@
-# C#BootCamp
-
 # 🍽️ Yemek Tarifleri ve Rezervasyon Kartı Uygulaması
 
 Bu proje, C# dilinde temel konsol işlemlerini göstermek amacıyla hazırlanmış çeşitli örnek uygulamaları içermektedir. Her bir uygulama, farklı veri türlerini ve temel programlama yapısını öğrenmek için ideal örnekler sunar.
@@ -129,10 +127,11 @@ Simetrik bir şekilde büyüyen bir piramit deseni oluşturur.
 - **🔄 Foreach Döngüsü Kullanımı**: Dizilerdeki her bir eleman üzerinde işlem yapmak için kullanılan Foreach döngüsü örneği.
 - **📊 Örnek Sınav Sistemi Uygulaması**: Kullanıcıdan öğrenci isimleri ve notları alarak sınav ortalamalarını hesaplayan uygulama.
 
-  ---
+---
   ## 📜 Metotlar
 - **⚙️ Void Metotlar**: Geriye değer döndürmeyen metot örnekleri (örneğin müşteri listeleme, toplama işlemi).
 - **📝 Geriye Değer Döndürmeyen String ve Int Parametreli Metotlar**: Parametre alan ancak geriye değer döndürmeyen metot örnekleri.
 - **🔙 Geriye Değer Döndüren Metotlar**: Belirli bir işlemi yaptıktan sonra geriye değer döndüren metot örnekleri.
 - **🔤 Geriye Değer Döndüren String ve Int Parametreli Metotlar**: String ve int parametreleri alarak geriye bir değer döndüren metot örnekleri.
+
 

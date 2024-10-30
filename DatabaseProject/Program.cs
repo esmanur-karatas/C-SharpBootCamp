@@ -29,7 +29,7 @@ namespace DatabaseProject
             Console.WriteLine("------------------------------------");
 
             //sql bağlantısı
-            SqlConnection connection = new SqlConnection("Data Source=DESKTOP-08VSUMT; Initial Catalog=EgitimKampiDb; Integrated Security=True");
+            SqlConnection connection = new SqlConnection("Data Source=DESKTOP-08VSUMT; Initial Catalog=BootcampDb; Integrated Security=True");
             connection.Open();
 
             SqlCommand command = new SqlCommand("SELECT * FROM Category", connection);
